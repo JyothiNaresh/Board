@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\collegeboard\CommonDLL\bin\CommonDLL.dll
+C:\inetpub\wwwroot\collegeboard\CommonDLL\bin\CommonDLL.pdb
+C:\inetpub\wwwroot\collegeboard\CommonDLL\bin\CommonDLL.xml
+C:\inetpub\wwwroot\collegeboard\CommonDLL\obj\Debug\CommonDLL.dll
+C:\inetpub\wwwroot\collegeboard\CommonDLL\obj\Debug\CommonDLL.xml
+C:\inetpub\wwwroot\collegeboard\CommonDLL\obj\Debug\CommonDLL.pdb

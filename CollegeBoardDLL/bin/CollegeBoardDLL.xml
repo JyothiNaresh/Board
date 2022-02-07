@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CollegeBoardDLL
+</name>
+</assembly>
+<members>
+<member name="M:CollegeBoardDLL.ClsQPTTailor.QPTTAILOR_Insert_Update_delete(System.Data.OracleClient.OracleConnection,System.Data.OracleClient.OracleTransaction,System.Data.DataSet)">
+Private Function QPTTAILOR_Insert_Update_delete(ByVal oConn As OracleConnection, ByVal oTrans As OracleTransaction, ByVal QDataSet As DataSet, ByVal QPTTailorSlno As Integer)
+
+</member><member name="M:CollegeBoardDLL.ClsExamBranch_Hostel_Block.ExamBranchHostelBlockEMP_FetchBySLNO(System.Int32)">
+    Catch ex As Exception
+        Throw   EX
+    Finally
+        If Not ObjConn Is Nothing Then ObjConn.Free()
+    End Try
+    Return Ds
+End Function
+
+</member>
+</members>
+</doc>
